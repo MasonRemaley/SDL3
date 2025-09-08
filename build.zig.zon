@@ -5,8 +5,8 @@
     .minimum_zig_version = "0.15.0-dev.1218+bc8e1a74c",
     .dependencies = .{
         .sdl = .{
-            .url = "https://github.com/libsdl-org/SDL/archive/refs/tags/release-3.2.14.tar.gz",
-            .hash = "N-V-__8AAHRriwPslozjEw46IksOzPlNxJRXM087krt8ynXh",
+            .url = "git+https://github.com/MasonRemaley/SDL#b742dcccca73df1fe001cad2e53ba89498835e1a",
+            .hash = "N-V-__8AAKxoiwN4LR6jw-tNBtB_SgKeifFr0tb1v3Xq0Tm0",
             .version = "3.2.14",
         },
         .dbus = .{
